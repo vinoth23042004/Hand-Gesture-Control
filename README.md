@@ -95,15 +95,6 @@ pip install -r requirements.txt
 4. **Open in Browser**  
    Navigate to: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
----
-
-## 📸 Screenshots
-
-| Slide View | Media Player |
-|------------|--------------|
-| ![Slide](PPT/Presentation/1.png) | ![Media](PPT/Presentation/2.png) |
-
----
 
 ## 📚 Use Cases
 
