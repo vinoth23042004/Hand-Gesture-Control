@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hand Gesture Controlled Presentation</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+        
+        img {
+            width: 100vw;
+            height: 56.25vw; /* 16:9 aspect ratio */
+            object-fit: cover; /* Ensure the image covers the entire area */
+        }
+    </style>
+</head>
+<body>
+    <img src="{{ url_for('video_feed') }}">
+</body>
+</html>
