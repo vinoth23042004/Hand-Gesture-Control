@@ -7,8 +7,7 @@ A smart Python-powered project designed for semi-automated multimedia presentati
 
 ## 🎥 Demo Video
 
-https://user-images.githubusercontent.com/demo-video-link/sample.mp4  
-> 📌 *(Replace with your actual uploaded video GitHub link)*
+[![Watch Demo on YouTube](https://img.youtube.com/vi/1Cb69p1uZpc/0.jpg)](https://youtu.be/1Cb69p1uZpc?si=Z_0KziH2toY62r8U)
 
 ---
 
